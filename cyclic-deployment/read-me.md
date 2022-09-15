@@ -7,11 +7,11 @@ Instructions for Cyclic deployment.
 3. Go to the button -> Link your Own
 
 4. Search for your repository 
-    -click on conect
-    -Deployment will start
-    -You will receive a message like "You're Live!"
-    - and ----->              be api deployed at:
-                              https://<some-random-words>.cyclic.app
+    - click on conect
+    - Deployment will start
+    - You will receive a message like "You're Live!"
+    - and ----->               api deployed at:
+                              https://-some-random-words-.cyclic.app
 
 5. Now you will need to set Environment Variables, Cyclic will need to have acces to the data into .env file.
     
